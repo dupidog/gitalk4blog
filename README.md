@@ -1,1 +1,3 @@
-# gitment4blog
+# gitalk4blog
+
+Blog comment repo.
